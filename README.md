@@ -19,7 +19,7 @@
 系统整体处理流程如下：
 **聊天记录获取** $\rightarrow$ **多模态解析** $\rightarrow$ **小模型初筛** $\rightarrow$ **风险审查 (RAG + 大模型)** $\rightarrow$ **结果输出**
 
-![image](README_refers/whiteboard_exported_image.png)
+![image](/whiteboard_exported_image.png)
 
 ---
 
